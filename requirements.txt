@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+playwright>=1.40.0
+beautifulsoup4
+pandas
+python-multipart
+lxml
+PyPDF2
+pytesseract
+Pillow
